@@ -4,3 +4,6 @@ git clone https://github.com/danielgomes14ap-prog/system-joke
 cd system-joke
 chmod +x mini.sh
 ./mini.sh
+
+
+Thats a fake ransomware for trolls dont worry
